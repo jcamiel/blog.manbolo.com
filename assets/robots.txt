@@ -1,0 +1,3 @@
+# robots.txt for http://blog.manbolo.com/
+User-agent: *
+Disallow: 

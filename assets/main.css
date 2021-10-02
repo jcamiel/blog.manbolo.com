@@ -1,0 +1,236 @@
+body{
+	background-color: #fff;
+	color: #333;
+	font-size:1.0em;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	word-wrap:break-word;
+	width:95%;
+    max-width:600px;
+	margin:0 auto;
+	line-height:1.6em;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Logo Manbolo is now retina */
+#m {
+	display: block;
+	width:48px;
+	height:48px;
+	margin:0;
+	background-size:48px 48px; 
+	background-image: url(/m@2x.png);
+}
+
+h1{
+	padding-left: 60px;
+	font-size:1.1em;
+	margin-bottom: 0;
+	float:clear;
+}
+
+#description{
+	padding-left: 60px;
+	margin-top:0;
+	margin-bottom:50px;
+	color: #999;
+}
+
+h2{
+	border-bottom: 1px solid #EEE;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	line-height:1.2;
+}
+
+p {
+   margin-bottom: 0;
+   margin-top:0.7em;
+}
+
+img{
+	display: block; 
+	margin:0 auto;
+}
+
+a{
+	color:#7208bf;
+	text-decoration:none;
+	outline:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+a:active{
+	outline:none;
+}
+
+a:visited{
+	text-decoration:none;
+}
+
+
+time{
+    color:#999;
+}
+
+article{
+	margin-bottom: 4em;
+}
+
+blockquote {
+	border-left: 2px solid #DDD;
+	padding-left: 0.5em;
+}
+.footnotes { 
+    margin-top: 1em;
+    font-size: 0.7em;
+	font-family:Arial, Verdana, Geneva, sans-serif;
+}
+.footnotes hr { margin-bottom: 1em; }
+
+.footnotes a[rev=footnote] { text-decoration: none; }
+
+.author{
+	color:#999;
+}
+
+.none{
+	float:none;
+}
+
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+	clear:both;
+}
+.center{
+	text-align: center;
+}
+.inline{
+	display:inline;
+	margin:0;
+}
+.caption{
+	display:block;
+	text-align: center;
+}
+
+.gray{
+	color:#999;
+}
+
+.archive_date{
+	width:100px;
+	float:left;
+}
+
+hr {
+  border: 0;
+  width: 30%;
+  color: #eee;
+  background-color: #eee;
+  height: 1px;
+}
+
+#archive_header_link{
+	float:right;
+}
+
+.thumbnail{
+	display: inline; 
+	margin:2px 2px 3px 3px;
+}
+
+table{
+	border-width: 1px;
+	border-style: outset;
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 50%;
+}
+th{
+	background-color: #eee;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+
+.table-centered{
+	border-collapse:collapse;
+}
+.table-centered th{
+	border: 1px solid white;
+	text-align: left;
+}
+.table-centered td{
+	text-align: center;
+	color: #7208bf;
+	border: 1px solid #ddd;
+}
+
+.table-centered td:first-of-type{
+	text-align: left;
+	color:black;
+}
+
+pre{
+	line-height:1.4em;
+	background-color: #f8f8f8;
+	border: 1px solid #ccc;
+	overflow: auto;
+	padding: 6px 10px;
+	border-radius: 3px;
+}
+
+.bordered{
+	border: 1px solid #ccc;
+}
+
+.inline{
+	display:inline;
+}
+
+code{
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	hyphens: none;
+}
+
+/*Some div background image for retina... maybe future improvement*/
+
+/* 2012-07-18 */
+#tinywings-icon {
+	display:block;
+	top:0;
+	left: 0;
+	z-index: 1;
+	width:600px;
+	height:450px;
+	margin:0 auto;
+	background-size: 600px 450px; 
+	background-image: url(http://blog.manbolo.com/2012/07/18/tiny-header.jpg);
+}
+@media 	only screen and (-moz-min-device-pixel-ratio: 1.5), 
+		only screen and (-o-min-device-pixel-ratio: 3/2), 
+		only screen and (-webkit-min-device-pixel-ratio: 1.5), 
+		only screen and (min-devicepixel-ratio: 1.5),
+		only screen and (min-resolution: 1.5dppx) {
+  		#tinywings-icon {
+    	background-image: url(http://blog.manbolo.com/2012/07/18/tiny-header@2x.jpg);
+  		}
+}
+
+
+
