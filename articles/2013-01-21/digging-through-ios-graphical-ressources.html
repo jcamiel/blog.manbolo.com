@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=640px" />
+<link rel="stylesheet" href="http://blog.manbolo.com/main.css"/>
+<link rel="shortcut icon" type="image/png" href="http://blog.manbolo.com/favicon.png"/>
+<title>Digging Through iOS Graphical Resources</title>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://blog.manbolo.com/rss.xml" />
+</head>
+<body>
+<div id="m" class="left"></div><h1><a href="http://blog.manbolo.com">Manbolo Blog</a></h1>
+<p id="description"><a href="http://www.manbolo.com">Manbolo</a> Team Blog, creators of <a href="http://www.manbolo.com/meon">Meon</a><span id="archive_header_link"><a href="http://blog.manbolo.com/archives">Archives</a></span></p><section>
+<article>
+<header>
+<h2><a href="http://blog.manbolo.com/2013/01/21/digging-through-ios-graphical-resources">Digging Through iOS Graphical Resources</a></h2>
+<time datetime="2013-01-21" pubdate>January 21, 2013</time>
+<span class="tweetbutton"> • </span><a class="tweetbutton" href="http://twitter.com/share?url=http://blog.manbolo.com/2013/01/21/digging-through-ios-graphical-resources&amp;text=Digging+Through+iOS+Graphical+Resources&amp;via=ManboloGames&amp;related=manboloGames">tweet</a></header>
+
+<p>Sometimes you want to use the exact same graphical resources of the embedded Apple apps. For instance, let&rsquo;s say you want reproduce the garbage button animation in the Photo app:<br><img src="/2013/01/21/UIButtonBarGarbage.gif" alt="Garbage animation" width="86" height="88"><br><small>Yes the animation&rsquo;s frame rate is not good but, but did you know that GIFs in browser supports a minimum FPS?</small></p>
+
+<p>Or you want to use the same iBooks&rsquo; &rsquo;cream&rsquo; popovers:<br><img src="http://blog.manbolo.com/2013/01/21/winnie.png" alt="Winnie the Pooh" width="600" height="450"></p>
+
+<p>Fortunately, there is an app for that, and it&rsquo;s free and Open Source. <a href="https://github.com/0xced/UIKit-Artwork-Extractor">UIKit-Artwork-Extractor on GitHub</a> by <a href="http://0xced.blogspot.fr">C&eacute;dric Luthi</a> extracts all the image artworks and emojis contained in <code>UIKit</code>. Get the source code, select a Simulator platform, build and run the app: that&rsquo;s done. Note: you can try to run it on a device, but the app seems to crash because of the too large memory consumption.</p>
+
+<p>Once launched, you will see this screen:</p>
+
+<p><img src="http://blog.manbolo.com/2013/01/21/extractor-uikit.png" alt="UIKit extractor" width="368" height="716"></p>
+
+<p>When you save the output, a folder on your desktop will be created (e.g. <code>~/Desktop/iPhone Simulator 6.0 artwork</code>) that contains all the Simulator resources, organized by framework.</p>
+
+<p>For instance, you will find all the garbage animation&rsquo;s frames under <code>~/Desktop/iPhone Simulator 6.0 artwork/Shared artwork</code>: <code>UIButtonBarGarbageOpen0.png</code> to <code>UIButtonBarGarbage15.png</code> and  <code>UIButtonBarGarbageClose0.png</code> to <code>UIButtonBarGarbageClose16.png</code>.</p>
+
+<p>The animated gear in the Settings apps, when installing a new OS update can be found under <code>~/Desktop/iPhone Simulator 6.0 artwork/Preferences app</code>: <code>GearAnimation0.png</code> to <code>GearAnimation35.png</code>.</p>
+
+<p><img src="http://blog.manbolo.com/2013/01/21/GearAnimation.gif" alt="Gear animation" width="65" height="66"></p>
+
+<p>The &rsquo;cream&rsquo; iBooks&rsquo; UIPopover components are located under <code>~/Desktop/iPhone Simulator 6.0 artwork/Shared artwork</code>: <code>UIPopoverViewCreamBackgroundArrow*.png</code></p>
+
+<p><img src="/2013/01/21/_UIPopoverViewCreamBackgroundArrowDown.png" alt="UIPopoverViewCreamBackgroundArrowDown" class="thumbnail"><img src="/2013/01/21/_UIPopoverViewCreamBackgroundArrowDownRight.png" alt="UIPopoverViewCreamBackgroundArrowDownRight" class="thumbnail"><img src="/2013/01/21/_UIPopoverViewCreamBackgroundArrowSide.png" alt="UIPopoverViewCreamBackgroundArrowSide" class="thumbnail"><img src="/2013/01/21/_UIPopoverViewCreamBackgroundArrowSideBottom.png" alt="UIPopoverViewCreamBackgroundArrowSideBottom" class="thumbnail"><img src="/2013/01/21/_UIPopoverViewCreamBackgroundArrowSideTop.png" alt="UIPopoverViewCreamBackgroundArrowSideTop" class="thumbnail"><img src="/2013/01/21/_UIPopoverViewCreamBackgroundArrowUp.png" alt="UIPopoverViewCreamBackgroundArrowUp" class="thumbnail"><img src="/2013/01/21/_UIPopoverViewCreamBackgroundArrowUpRight.png" alt="UIPopoverViewCreamBackgroundArrowUpRight" class="thumbnail"></p>
+
+<p>The beautiful and textured Map&rsquo;s signs background are under <code>~/Desktop/iPhone Simulator 6.0 artwork/MapsLockScreen lockbundle</code></p>
+
+<p><img src="http://blog.manbolo.com/2013/01/21/MNBannerSignViewBackgroundTeal@2x.png" alt="Map signs background" width="640" height="76"></p>
+
+<p>There are a lot of developers that prefer to code using only <code>Core Graphics</code> and no png at all, but if you look at Apple&rsquo;s bundles, you will see that a lot of the <code>UIKit</code> components are png&rsquo;s based. I prefer to use png instead of coding because:</p>
+
+<ul><li>it&rsquo;s simpler,</li>
+<li>your graphic designer can work independently and will iterate faster,</li>
+<li>png on iOS is hardware decoded so performances should be really OK,</li>
+<li>even Apple does it (but not exclusively: <code>Core Graphic</code> graphics are also light and retina ready, see the Stock app&rsquo;s reconstruction in <a href="https://developer.apple.com/videos/wwdc/2011/?id=129">WWDC 2011 Session - &#65532;Practical Drawing for iOS</a>).</li>
+</ul><h3>Little gems</h3>
+
+<p>Finally, digging through <code>UIKit</code> will show you beautiful, unknown (by me et least!) and sometimes <em>unused</em> Apple images:</p>
+
+<p><img src="http://blog.manbolo.com/2013/01/21/NewsstandDefaultMagazine_1only_.png" alt="Newstand Magazine" width="368" height="512"></p>
+
+<p><img src="http://blog.manbolo.com/2013/01/21/NewsstandDefaultNewspaper_1only_.png" alt="Newstand Newspaper" width="512" height="390"></p>
+
+<p>Have you ever seen this clumsy animated splash screen when you boot your iPhone? However, it&rsquo;s here!</p>
+
+<p><img src="http://blog.manbolo.com/2013/01/21/logoFlareAnim.gif" alt="Apple Logo" width="320" height="480"></p>
+
+<p><span class="author">From jc.</span></p>
+</article>
+<p><a href="http://blog.manbolo.com/archives">All Posts</a></p>
+<footer><p>© 2013 <a href="http://www.manbolo.com">Manbolo</a> Team Blog  • <a href="http://twitter.com/manboloGames">Twitter</a>  • <a href="http://blog.manbolo.com/rss.xml">RSS feed</a></p></footer>
+</section>
+</body>
+</html>

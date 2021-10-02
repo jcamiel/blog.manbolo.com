@@ -1,0 +1,93 @@
+## iOS 7.1 Gallery
+
+<a href="/2014/05/20/springboard.png"><img class="thumbnail" src="/2014/05/20/springboard_276x490.png" alt="Springboard" width="138" height="245"></a>
+<a href="/2014/05/20/springboard1.png"><img class="thumbnail" src="/2014/05/20/springboard1_276x490.png" alt="Springboard1" width="138" height="245"></a>
+<a href="/2014/05/20/springboard2.png"><img class="thumbnail" src="/2014/05/20/springboard2_276x490.png" alt="Springboard2" width="138" height="245"></a>
+<a href="/2014/05/20/fastswitch.png"><img class="thumbnail" src="/2014/05/20/fastswitch_276x490.png" alt="Fastswitch" width="138" height="245"></a>
+<a href="/2014/05/20/fastswitch1.png"><img class="thumbnail" src="/2014/05/20/fastswitch1_276x490.png" alt="Fastswitch1" width="138" height="245"></a>
+<a href="/2014/05/20/controlcenter.png"><img class="thumbnail" src="/2014/05/20/controlcenter_276x490.png" alt="Controlcenter" width="138" height="245"></a>
+<a href="/2014/05/20/lock.png"><img class="thumbnail" src="/2014/05/20/lock_276x490.png" alt="Lock" width="138" height="245"></a>
+<a href="/2014/05/20/appstore.png"><img class="thumbnail" src="/2014/05/20/appstore_276x490.png" alt="Appstore" width="138" height="245"></a>
+<a href="/2014/05/20/appstore1.png"><img class="thumbnail" src="/2014/05/20/appstore1_276x490.png" alt="Appstore1" width="138" height="245"></a>
+<a href="/2014/05/20/appstore2.png"><img class="thumbnail" src="/2014/05/20/appstore2_276x490.png" alt="Appstore2" width="138" height="245"></a>
+<a href="/2014/05/20/appstore3.png"><img class="thumbnail" src="/2014/05/20/appstore3_276x490.png" alt="Appstore3" width="138" height="245"></a>
+<a href="/2014/05/20/appstore4.png"><img class="thumbnail" src="/2014/05/20/appstore4_276x490.png" alt="Appstore4" width="138" height="245"></a>
+<a href="/2014/05/20/compass.png"><img class="thumbnail" src="/2014/05/20/compass_276x490.png" alt="Compass" width="138" height="245"></a>
+<a href="/2014/05/20/compass1.png"><img class="thumbnail" src="/2014/05/20/compass1_276x490.png" alt="Compass1" width="138" height="245"></a>
+<a href="/2014/05/20/compass2.png"><img class="thumbnail" src="/2014/05/20/compass2_276x490.png" alt="Compass2" width="138" height="245"></a>
+<a href="/2014/05/20/compass3.png"><img class="thumbnail" src="/2014/05/20/compass3_276x490.png" alt="Compass3" width="138" height="245"></a>
+<a href="/2014/05/20/calc.png"><img class="thumbnail" src="/2014/05/20/calc_276x490.png" alt="Calc" width="138" height="245"></a>
+<a href="/2014/05/20/calc1.png"><img class="thumbnail" src="/2014/05/20/calc1_276x490.png" alt="Calc1" width="138" height="245"></a>
+<a href="/2014/05/20/calendar.png"><img class="thumbnail" src="/2014/05/20/calendar_276x490.png" alt="Calendar" width="138" height="245"></a>
+<a href="/2014/05/20/calendar1.png"><img class="thumbnail" src="/2014/05/20/calendar1_276x490.png" alt="Calendar1" width="138" height="245"></a>
+<a href="/2014/05/20/calendar2.png"><img class="thumbnail" src="/2014/05/20/calendar2_276x490.png" alt="Calendar2" width="138" height="245"></a>
+<a href="/2014/05/20/calendar3.png"><img class="thumbnail" src="/2014/05/20/calendar3_276x490.png" alt="Calendar3" width="138" height="245"></a>
+<a href="/2014/05/20/mail.png"><img class="thumbnail" src="/2014/05/20/mail_276x490.png" alt="Mail" width="138" height="245"></a>
+<a href="/2014/05/20/mail1.png"><img class="thumbnail" src="/2014/05/20/mail1_276x490.png" alt="Mail1" width="138" height="245"></a>
+<a href="/2014/05/20/camera2.png"><img class="thumbnail" src="/2014/05/20/camera2_276x490.png" alt="Camera2" width="138" height="245"></a>
+<a href="/2014/05/20/camera1.png"><img class="thumbnail" src="/2014/05/20/camera1_276x490.png" alt="Camera1" width="138" height="245"></a>
+<a href="/2014/05/20/camera.png"><img class="thumbnail" src="/2014/05/20/camera_276x490.png" alt="Camera" width="138" height="245"></a>
+<a href="/2014/05/20/clock.png"><img class="thumbnail" src="/2014/05/20/clock_276x490.png" alt="Clock" width="138" height="245"></a>
+<a href="/2014/05/20/clock1.png"><img class="thumbnail" src="/2014/05/20/clock1_276x490.png" alt="Clock1" width="138" height="245"></a>
+<a href="/2014/05/20/clock2.png"><img class="thumbnail" src="/2014/05/20/clock2_276x490.png" alt="Clock2" width="138" height="245"></a>
+<a href="/2014/05/20/clock3.png"><img class="thumbnail" src="/2014/05/20/clock3_276x490.png" alt="Clock3" width="138" height="245"></a>
+<a href="/2014/05/20/contact.png"><img class="thumbnail" src="/2014/05/20/contact_276x490.png" alt="Contact" width="138" height="245"></a>
+<a href="/2014/05/20/gamecenter.png"><img class="thumbnail" src="/2014/05/20/gamecenter_276x490.png" alt="Gamecenter" width="138" height="245"></a>
+<a href="/2014/05/20/gamecenter1.png"><img class="thumbnail" src="/2014/05/20/gamecenter1_276x490.png" alt="Gamecenter1" width="138" height="245"></a>
+<a href="/2014/05/20/gamecenter2.png"><img class="thumbnail" src="/2014/05/20/gamecenter2_276x490.png" alt="Gamecenter2" width="138" height="245"></a>
+<a href="/2014/05/20/gamecenter3.png"><img class="thumbnail" src="/2014/05/20/gamecenter3_276x490.png" alt="Gamecenter3" width="138" height="245"></a>
+<a href="/2014/05/20/imessage.png"><img class="thumbnail" src="/2014/05/20/imessage_276x490.png" alt="Imessage" width="138" height="245"></a>
+<a href="/2014/05/20/maps.png"><img class="thumbnail" src="/2014/05/20/maps_276x490.png" alt="Maps" width="138" height="245"></a>
+<a href="/2014/05/20/maps1.png"><img class="thumbnail" src="/2014/05/20/maps1_276x490.png" alt="Maps1" width="138" height="245"></a>
+<a href="/2014/05/20/maps2.png"><img class="thumbnail" src="/2014/05/20/maps2_276x490.png" alt="Maps2" width="138" height="245"></a>
+<a href="/2014/05/20/micro.png"><img class="thumbnail" src="/2014/05/20/micro_276x490.png" alt="Micro" width="138" height="245"></a>
+<a href="/2014/05/20/micro1.png"><img class="thumbnail" src="/2014/05/20/micro1_276x490.png" alt="Micro1" width="138" height="245"></a>
+<a href="/2014/05/20/music.png"><img class="thumbnail" src="/2014/05/20/music_276x490.png" alt="Music" width="138" height="245"></a>
+<a href="/2014/05/20/music1.png"><img class="thumbnail" src="/2014/05/20/music1_276x490.png" alt="Music1" width="138" height="245"></a>
+<a href="/2014/05/20/music2.png"><img class="thumbnail" src="/2014/05/20/music2_276x490.png" alt="Music2" width="138" height="245"></a>
+<a href="/2014/05/20/music3.png"><img class="thumbnail" src="/2014/05/20/music3_276x490.png" alt="Music3" width="138" height="245"></a>
+<a href="/2014/05/20/music4.png"><img class="thumbnail" src="/2014/05/20/music4_276x490.png" alt="Music4" width="138" height="245"></a>
+<a href="/2014/05/20/newsstand.png"><img class="thumbnail" src="/2014/05/20/newsstand_276x490.png" alt="Newsstand" width="138" height="245"></a>
+<a href="/2014/05/20/notes.png"><img class="thumbnail" src="/2014/05/20/notes_276x490.png" alt="Notes" width="138" height="245"></a>
+<a href="/2014/05/20/notes1.png"><img class="thumbnail" src="/2014/05/20/notes1_276x490.png" alt="Notes1" width="138" height="245"></a>
+<a href="/2014/05/20/notifications.png"><img class="thumbnail" src="/2014/05/20/notifications_276x490.png" alt="Notifications" width="138" height="245"></a>
+<a href="/2014/05/20/notifications_center.png"><img class="thumbnail" src="/2014/05/20/notifications_center_276x490.png" alt="Notifications_Center" width="138" height="245"></a>
+<a href="/2014/05/20/notifications_center1.png"><img class="thumbnail" src="/2014/05/20/notifications_center1_276x490.png" alt="Notifications_Center1" width="138" height="245"></a>
+<a href="/2014/05/20/passbook.png"><img class="thumbnail" src="/2014/05/20/passbook_276x490.png" alt="Passbook" width="138" height="245"></a>
+<a href="/2014/05/20/phone.png"><img class="thumbnail" src="/2014/05/20/phone_276x490.png" alt="Phone" width="138" height="245"></a>
+<a href="/2014/05/20/phone1.png"><img class="thumbnail" src="/2014/05/20/phone1_276x490.png" alt="Phone1" width="138" height="245"></a>
+<a href="/2014/05/20/phone2.png"><img class="thumbnail" src="/2014/05/20/phone2_276x490.png" alt="Phone2" width="138" height="245"></a>
+<a href="/2014/05/20/reminders.png"><img class="thumbnail" src="/2014/05/20/reminders_276x490.png" alt="Reminders" width="138" height="245"></a>
+<a href="/2014/05/20/reminders1.png"><img class="thumbnail" src="/2014/05/20/reminders1_276x490.png" alt="Reminders1" width="138" height="245"></a>
+<a href="/2014/05/20/safari.png"><img class="thumbnail" src="/2014/05/20/safari_276x490.png" alt="Safari" width="138" height="245"></a>
+<a href="/2014/05/20/safari1.png"><img class="thumbnail" src="/2014/05/20/safari1_276x490.png" alt="Safari1" width="138" height="245"></a>
+<a href="/2014/05/20/safari2.png"><img class="thumbnail" src="/2014/05/20/safari2_276x490.png" alt="Safari2" width="138" height="245"></a>
+<a href="/2014/05/20/safari3.png"><img class="thumbnail" src="/2014/05/20/safari3_276x490.png" alt="Safari3" width="138" height="245"></a>
+<a href="/2014/05/20/safari4.png"><img class="thumbnail" src="/2014/05/20/safari4_276x490.png" alt="Safari4" width="138" height="245"></a>
+<a href="/2014/05/20/safari5.png"><img class="thumbnail" src="/2014/05/20/safari5_276x490.png" alt="Safari5" width="138" height="245"></a>
+<a href="/2014/05/20/safari6.png"><img class="thumbnail" src="/2014/05/20/safari6_276x490.png" alt="Safari6" width="138" height="245"></a>
+<a href="/2014/05/20/settings.png"><img class="thumbnail" src="/2014/05/20/settings_276x490.png" alt="Settings" width="138" height="245"></a>
+<a href="/2014/05/20/settings1.png"><img class="thumbnail" src="/2014/05/20/settings1_276x490.png" alt="Settings1" width="138" height="245"></a>
+<a href="/2014/05/20/settings2.png"><img class="thumbnail" src="/2014/05/20/settings2_276x490.png" alt="Settings2" width="138" height="245"></a>
+<a href="/2014/05/20/settings3.png"><img class="thumbnail" src="/2014/05/20/settings3_276x490.png" alt="Settings3" width="138" height="245"></a>
+<a href="/2014/05/20/settings4.png"><img class="thumbnail" src="/2014/05/20/settings4_276x490.png" alt="Settings4" width="138" height="245"></a>
+<a href="/2014/05/20/stocks.png"><img class="thumbnail" src="/2014/05/20/stocks_276x490.png" alt="Stocks" width="138" height="245"></a>
+<a href="/2014/05/20/stocks1.png"><img class="thumbnail" src="/2014/05/20/stocks1_276x490.png" alt="Stocks1" width="138" height="245"></a>
+<a href="/2014/05/20/wallpaper.png"><img class="thumbnail" src="/2014/05/20/wallpaper_276x490.png" alt="Wallpaper" width="138" height="245"></a>
+<a href="/2014/05/20/wallpaper1.png"><img class="thumbnail" src="/2014/05/20/wallpaper1_276x490.png" alt="Wallpaper1" width="138" height="245"></a>
+<a href="/2014/05/20/wallpaper2.png"><img class="thumbnail" src="/2014/05/20/wallpaper2_276x490.png" alt="Wallpaper2" width="138" height="245"></a>
+<a href="/2014/05/20/wallpaper3.png"><img class="thumbnail" src="/2014/05/20/wallpaper3_276x490.png" alt="Wallpaper3" width="138" height="245"></a>
+<a href="/2014/05/20/wallpaper4.png"><img class="thumbnail" src="/2014/05/20/wallpaper4_276x490.png" alt="Wallpaper4" width="138" height="245"></a>
+<a href="/2014/05/20/wallpaper5.png"><img class="thumbnail" src="/2014/05/20/wallpaper5_276x490.png" alt="Wallpaper5" width="138" height="245"></a>
+<a href="/2014/05/20/weather.png"><img class="thumbnail" src="/2014/05/20/weather_276x490.png" alt="Weather" width="138" height="245"></a>
+<a href="/2014/05/20/weather1.png"><img class="thumbnail" src="/2014/05/20/weather1_276x490.png" alt="Weather1" width="138" height="245"></a>
+<a href="/2014/05/20/weather2.png"><img class="thumbnail" src="/2014/05/20/weather2_276x490.png" alt="Weather2" width="138" height="245"></a>
+<a href="/2014/05/20/itunes.png"><img class="thumbnail" src="/2014/05/20/itunes_276x490.png" alt="Itunes" width="138" height="245"></a>
+<a href="/2014/05/20/itunes1.png"><img class="thumbnail" src="/2014/05/20/itunes1_276x490.png" alt="Itunes1" width="138" height="245"></a>
+<a href="/2014/05/20/itunes2.png"><img class="thumbnail" src="/2014/05/20/itunes2_276x490.png" alt="Itunes2" width="138" height="245"></a>
+	
+[iOS 5.0 Gallery](http://blog.manbolo.com/2012/08/12/ios-5.0-gallery)
+
+[iOS 6.0 Gallery](http://blog.manbolo.com/2013/06/04/ios-6.0-gallery)
+
+From jc.
